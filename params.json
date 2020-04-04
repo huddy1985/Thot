@@ -1,6 +1,0 @@
-{
-  "name": "Thot",
-  "tagline": "Thot is a document generation utility producing HTML, DocBook and Latex output from wiki-like text input.",
-  "body": "Thot is a text-based document generator. Supporting several input and output formats, Thot makes easier the insertion of other text-based ressources like graph, mathematics formula, figures, etc.\r\n\r\n### Features\r\n\r\nInput formats includes:\r\n* Dokuwiki\r\n* Textile\r\n\r\nOutput formats:\r\n* HTML (supporting styles and document templates),\r\n* DocBook\r\n* Latex\r\n\r\nModules for special insertion of external resources:\r\n* mathematics formula (based on LatexMath)\r\n* code samples (using Highlight)\r\n* graphs (using dot from GraphViz)\r\n* figures (GnuPlot, Ditaa, Aafig)\r\n\r\n### Authors and Contributors\r\n[H. Cassé](mailto:hugues.casse@laposte.net)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

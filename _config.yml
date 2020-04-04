@@ -1,0 +1,8 @@
+title: Thot
+description: Thot is a document generation utility producing HTML, DocBook and Latex output from wiki-like text input.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
