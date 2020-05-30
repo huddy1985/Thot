@@ -16,7 +16,7 @@ setup(
 	packages = ['thot', 'thot/mods', 'thot/backs'],
 	scripts = ['bin/thot'],
 	data_files = [
-		("share/thot/css/minima/", glob.glob("css/minima/*.css"))
+		("share/thot/css/minima/", glob.glob("css/minima/*.css")),
 		("share/thot/css/minima/", glob.glob("css/minima/*.css"))
 	]
 )
